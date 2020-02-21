@@ -1,15 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/backlog-scrum/client/node_modules
-/backlog-scrum/client/.pnp
-/backlog-scrum/client/.pnp.js
+/backlog-scrum/node_modules
+/backlog-scrum/.pnp
+/backlog-scrum/.pnp.js
 
 # testing
-/backlog-scrum/client/coverage
+/backlog-scrum/coverage
 
 # production
-/backlog-scrum/client/build
+/backlog-scrum/build
 
 # misc
 .DS_Store
